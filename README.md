@@ -3,7 +3,7 @@
 [Click here for more information]{https://google.com}
 
 - [ ] CSS
-- [ ] JavaScripttttttttttttttttttttttttt
+- [ ] JavaScriptttttt
 - [ ] HTML
 - [x] React
 
