@@ -8,7 +8,7 @@
 - [x] React
 
 | Category 1 | Category 2 | Category 3 |
-| -- | :--: | -- |
+| -- | :--: | :--: |
 | blabla1 | blabla2 | _blablabla längerer_ <br> _Text_ ☂️ |
 | xyz | **xyz** | xyz <br> xyz |
 
