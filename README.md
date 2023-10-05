@@ -8,8 +8,7 @@
 - [x] React
 
 | Category 1 | Category 2 | Category 3 |
-| ------ | ------ | ------ |
-| ------ | ------ | ------ |
+| ---- | -- | --- |
 | blabla1 | blabla2 | blabla3 |
 | xyz | xyz | xyz |
 
